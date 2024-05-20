@@ -29,6 +29,7 @@
 * Added the new cmdlet for supporting `InternetIngressIp` Property with Network Virtual Appliances -`New-AzVirtualApplianceInternetIngressIpsProperty`
 * Added a new AuxiliaryMode value `AuxiliaryMode.Floating`
 * Added support for AzureFirewallPacketCapture
+* Added 'Save & Commit' (drafts) commands for AzureFirewallPolicy 
 
 ## Version 7.3.0
 * Fixed a few minor issues
